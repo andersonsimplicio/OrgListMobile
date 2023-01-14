@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="bem_vindo">Ola Mundo kotlin</string>
+    <string name="lista_compra">Lista de Compras</string>
+</resources>
